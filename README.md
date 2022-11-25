@@ -8,6 +8,18 @@ This is a repo for translations and bug report.
 
 https://play.google.com/store/apps/details?id=net.louislam.firebookmarkwidget
 
+## Motivation
+
+As Chrome will try to kill a lot of useful extensions by launching Chrome Manifest V3 in 2023, I decided to move my primary browser to Firefox either on PC or Android.
+
+Firefox for Android is surpisingly good
+
+- Bottom navbar
+- Addons / Extentsions
+- No stupid grouped tabs
+
+However, one of drawbacks of Firefox for Android is that it does not have a bookmark widget. As I mainly used my bookmark toolbar on PC as the root, accessing the bookmarks is required 4 steps on Android (3-dot Menu -> Bookmarks -> PC Bookmarks -> Toolbar Bookmarks), which is not ideal. That's why I want to make this app. 
+
 
 ## Bug Report
 
