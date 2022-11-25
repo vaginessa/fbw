@@ -15,7 +15,7 @@ Please report here:
 
 https://github.com/louislam/fbw/issues
 
-## Get free Pro License
+## Get Free Pro License
 
 You can get a free Pro license code by translating this application.
 
@@ -24,6 +24,8 @@ Requirements:
 - You need to make a pull request and get merged by us.
 - One person can get one code
 - Set your twitter in your GitHub profile, we will send it via Twitter PM
+- Due to Google Play limitation, we can generate 500 codes per 3 months only. So first come/merged first service. 
+- If you have ever made a pull request for Uptime Kuma, you can get a code too (PM me via Twitter if so)
 
 More rules:
 - These codes were generated and can be redeemed on Google Play only
