@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="login_button">登录 Firefox 帐号</string>
+<string name="logging_in">登录中…</string>
+<string name="syncing">同步中…</string>
+<string name="pro_features">⭐ 专业版功能</string>
+<string name="done">完成</string>
+<string name="never">从未</string>
+<string name="favicon">网站图示</string>
+<string name="toolbar">书签工具列</string>
+<string name="bookmarksMenu">书签选单</string>
+<string name="otherBookmarks">其他书签</string>
+<string name="mobileBookmarks">手机上的书签</string>
+<string name="defaultText">默认</string>
+<string name="cannot_upgrade_msg">"无法连接到 Play 服务。请确认你已登入及更新 Google Play，以及保持良好网路讯号。 "</string>
+<string name="downloading_favicons">下载网站图示中…</string>
+<string name="save_and_stop">储存及停止</string>
+<string name="login_msg">"请先在 Firefox 安卓版或电脑版上申请及登录一个 Firefox 帐号，然后在此登录。 "</string>
+<string name="click_to_login">按此登录</string>
+<string name="developed_by">开发者</string>
+<string name="welcome">欢迎！ </string>
+<string name="last_sync">最近同步</string>
+<string name="options">设置</string>
+<string name="dark_theme">暗黑皮肤</string>
+<string name="no_divider">不显示分隔线</string>
+<string name="download_favicon">下载网站图示</string>
+<string name="set_default_folder">设定默认文件夹</string>
+<string name="total_bookmarks">书签数目</string>
+    <string name="logout">退出登录</string>
+    <string name="refresh_widget">刷新小工具</string>
+    <string name="active_license_pro">已启用授权: 专业版</string>
+    <string name="sync_now">立即同步</string>
+    <string name="upgrade_to_pro">升级至专业版</string>
+    <string name="clear_all_favicons">清除所有网站图示</string>
+    <string name="favicons_cleared">所有网站图示已清除</string>
+    <string name="widget_refreshed">已刷新小工具</string>
+    <string name="favicons_task_finished">下载网站图示已完成</string>
+    <string name="login_try_again_msg">请重试，如问题持续，请登出再登入。</string>
+    <string name="confirm_clear_favicon_msg">是否确定清除所有网站图示？</string>
+    <string name="thank_you_msg">谢谢您的购买！您现在可以使用所有功能。</string>
+    <string name="unknown_state_msg">目前无法获得购买资讯，请稍后再检查购买进度</string>
+    <string name="pending_state_msg">购买处理中，请稍后再检查购买进度</string>
+</resources>

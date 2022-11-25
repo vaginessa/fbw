@@ -8,12 +8,19 @@ This is a repo for translations and bug report.
 
 https://play.google.com/store/apps/details?id=net.louislam.firebookmarkwidget
 
+
+## Bug Report
+
+Please report here:
+
+https://github.com/louislam/fbw/issues
+
 ## Get free Pro License
 
 You can get a free Pro license code by translating this application.
 
 Requirements:
-- At least translated __5__ keys
+- At least translated __10__ strings
 - You need to make a pull request and get merged by us.
 - One person can get one code
 - Set your twitter in your GitHub profile, we will send it via Twitter PM

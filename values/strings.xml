@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">Fire Bookmark Widget</string>
+    <string name="pro" translatable="false">pro</string>
+    <string name="author" translatable="false">\@LouisLam\nhttps://github.com/louislam/fbw</string>
+
+    <string name="developed_by">Developed by</string>
+    <string name="login_button">Login Firefox Account</string>
+    <string name="logging_in">Logging in…</string>
+    <string name="syncing">Syncing…</string>
+    <string name="pro_features">⭐ Pro Features</string>
+    <string name="done">Done</string>
+    <string name="never">Never</string>
+    <string name="favicon">Favicon</string>
+    <string name="toolbar">Bookmarks Toolbar</string>
+    <string name="bookmarksMenu">Bookmarks Menu</string>
+    <string name="otherBookmarks">Other Bookmarks</string>
+    <string name="mobileBookmarks">Mobile Bookmarks</string>
+    <string name="defaultText">Default</string>
+    <string name="cannot_upgrade_msg">Cannot connect to Play Services. Please sign in your Google Play and make sure it is updated and the network connection is good.</string>
+    <string name="downloading_favicons">Downloading favicons…</string>
+    <string name="save_and_stop">Save and Stop</string>
+    <string name="login_msg">Please create a Firefox account and login on your Firefox for Android / PC first, in order to sync your bookmarks with our widget.</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="welcome">Welcome!</string>
+    <string name="last_sync">Last Sync</string>
+    <string name="options">Options</string>
+    <string name="dark_theme">Dark theme for widget</string>
+    <string name="no_divider">No divider between items</string>
+    <string name="download_favicon">Download Favicon</string>
+    <string name="set_default_folder">Set Default Folder</string>
+    <string name="total_bookmarks">Total Bookmarks</string>
+    <string name="upgrade_to_pro">Upgrade to Pro</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="active_license_pro">Active License: Pro</string>
+    <string name="refresh_widget">Refresh Widget</string>
+    <string name="logout">Logout</string>
+    <string name="clear_all_favicons">Clear All Favicons</string>
+    <string name="favicons_cleared">Favicons cleared</string>
+    <string name="widget_refreshed">Widget refreshed</string>
+    <string name="favicons_task_finished">Favicons Task Finished</string>
+    <string name="login_try_again_msg">Please try again. If the problem still persists, please logout and login again.</string>
+    <string name="confirm_clear_favicon_msg">Are you sure you want to clear all favicons?</string>
+    <string name="thank_you_msg">Thank you for your purchase! You can now use all features.</string>
+    <string name="pending_state_msg">The purchase is in pending state, please re-open the app later.</string>
+    <string name="unknown_state_msg">The purchase is in unknown state, please re-open the app later.</string>
+
+</resources>

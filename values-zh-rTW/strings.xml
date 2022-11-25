@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_button">登入 Firefox 帳號</string>
+    <string name="logging_in">登入中…</string>
+    <string name="syncing">同步中…</string>
+    <string name="pro_features">⭐ Pro 功能</string>
+    <string name="done">完成</string>
+    <string name="never">從未</string>
+    <string name="favicon">Favicon</string>
+    <string name="toolbar">書籤工具列</string>
+    <string name="bookmarksMenu">書籤選單</string>
+    <string name="otherBookmarks">其他書籤</string>
+    <string name="mobileBookmarks">行動裝置上的書籤</string>
+    <string name="defaultText">預設</string>
+    <string name="cannot_upgrade_msg">無法連接到 Play Services。請確認你已登入及更新 Google Play，以及保持良好網路訊號。</string>
+    <string name="downloading_favicons">下載 Favicon 中…</string>
+    <string name="save_and_stop">儲存及停止</string>
+    <string name="login_msg">請先在 Firefox for Android 或 PC 版上申請及登入一個 Firefox 帳號，然後再按</string>
+    <string name="click_to_login">按此登入</string>
+    <string name="developed_by">開發者</string>
+    <string name="welcome">歡迎！</string>
+    <string name="last_sync">最近同步</string>
+    <string name="options">選項</string>
+    <string name="dark_theme">暗黑主題</string>
+    <string name="no_divider">不顯示分隔線</string>
+    <string name="download_favicon">下載 Favicon</string>
+    <string name="set_default_folder">設定預設資料夾</string>
+    <string name="total_bookmarks">書籤數目</string>
+    <string name="logout">登出</string>
+    <string name="upgrade_to_pro">升級至 Pro 版</string>
+    <string name="sync_now">立即同步</string>
+    <string name="active_license_pro">已啟用授權: Pro 版</string>
+    <string name="refresh_widget">重新整理小工具</string>
+    <string name="login_try_again_msg">請重試，如問題持續，請登出再登入。</string>
+    <string name="favicons_task_finished">下載 Favicon 已完成</string>
+    <string name="widget_refreshed">已重新整理小工具</string>
+    <string name="favicons_cleared">所有 Favicon 已清除</string>
+    <string name="clear_all_favicons">清除所有 Favicon</string>
+    <string name="confirm_clear_favicon_msg">是否確認清除所有 Favicon？</string>
+    <string name="thank_you_msg">謝謝您的購買！您現在可以使用所有功能。</string>
+    <string name="pending_state_msg">購買處理中，請稍後再檢查購買進度</string>
+    <string name="unknown_state_msg">目前無法獲得購買資訊，請稍後再檢查購買進度</string>
+</resources>
