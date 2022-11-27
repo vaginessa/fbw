@@ -4,6 +4,9 @@ A Bookmark Widget for Android, sync bookmarks with Firefox.
 
 This is a repo for translations and bug report.
 
+
+<img src="https://repository-images.githubusercontent.com/569195349/c4fa19aa-379d-4cc0-8791-5344fb03860f" width="400" />
+
 ## Download
 
 https://play.google.com/store/apps/details?id=net.louislam.firebookmarkwidget
