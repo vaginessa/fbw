@@ -1,0 +1,45 @@
+<resources>
+<string name="app_name" translatable="false">Fire Bookmark Widget</string>
+<string name="pro" translatable="false">pro</string>
+<string name="author" translatable="false">\@LouisLam\nhttps://github.com/louislam/fbw</string>
+<string name="developed_by">Entwickelt von</string>
+<string name="login_button">Melden Sie sich beim Firefox-Konto an</string>
+<string name="logging_in">Einloggen…</string>
+<string name="syncing">Synchronisieren…</string>
+<string name="pro_features">⭐ Pro-Funktionen</string>
+<string name="done">Erledigt</string>
+<string name="never">Niemals</string>
+<string name="favicon">Favicon</string>
+<string name="toolbar">Lesezeichen-Symbolleiste</string>
+<string name="bookmarksMenu">Lesezeichen-Menü</string>
+<string name="otherBookmarks">Andere Lesezeichen</string>
+<string name="mobileBookmarks">Mobile Lesezeichen</string>
+<string name="defaultText">Standard</string>
+<string name="cannot_upgrade_msg">Es kann keine Verbindung zu den Play-Diensten hergestellt werden. Bitte melden Sie sich bei Google Play an und vergewissern Sie sich, dass es aktualisiert ist und die Netzwerkverbindung gut ist.</string>
+<string name="downloading_favicons">Favicons werden heruntergeladen…</string>
+<string name="save_and_stop">Speichern und stoppen</string>
+<string name="login_msg">Bitte erstellen Sie ein Firefox-Konto und melden Sie sich zuerst bei Ihrem Firefox für Android /PC an, um Ihre Lesezeichen mit unserem Widget zu synchronisieren.</string>
+<string name="click_to_login">Klicken Sie hier, um sich anzumelden</string>
+<string name="welcome">Willkommen!</string>
+<string name="last_sync">Letzte Synchronisierung</string>
+<string name="options">Optionen</string>
+<string name="dark_theme">Dunkles Thema für Widget</string>
+<string name="no_divider">Keine Trennwand zwischen den Artikeln</string>
+<string name="download_favicon">Favicon herunterladen</string>
+<string name="set_default_folder">Standardordner festlegen</string>
+<string name="total_bookmarks">Lesezeichen insgesamt</string>
+<string name="upgrade_to_pro">Auf Pro upgraden</string>
+<string name="sync_now">Jetzt synchronisieren</string>
+<string name="active_license_pro">Aktive Lizenz: Pro</string>
+<string name="refresh_widget">Widget aktualisieren</string>
+<string name="logout">Ausloggen</string>
+<string name="clear_all_favicons">Alle Favicons löschen</string>
+<string name="favicons_cleared">Favicons gelöscht</string>
+<string name="widget_refreshed">Widget aktualisiert</string>
+<string name="favicons_task_finished">Favicons-Aufgabe abgeschlossen</string>
+<string name="login_try_again_msg">Bitte versuche es erneut. Wenn das Problem weiterhin besteht, melden Sie sich bitte ab und wieder an.</string>
+<string name="confirm_clear_favicon_msg">Möchten Sie wirklich alle Favoriten löschen?</string>
+<string name="thank_you_msg">Danke für Ihren Einkauf! Sie können jetzt alle Funktionen nutzen.</string>
+<string name="pending_state_msg">Der Kauf befindet sich im ausstehenden Zustand, bitte öffnen Sie die App später erneut.</string>
+<string name="unknown_state_msg">Der Kauf befindet sich in einem unbekannten Zustand, bitte öffnen Sie die App später erneut.</string>
+</resources>
